@@ -1,0 +1,18 @@
+.white-button,
+.blue-button {
+    width: 220px;
+    height: 65px;
+    border-radius: 30px;
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.blue-button {
+    background: linear-gradient(to right, #1F23DA, #071987);
+    color: white;
+}
+
+.white-button {
+    background-color: #F1F1F1;
+}

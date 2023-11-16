@@ -1,0 +1,37 @@
+.home-container {
+    height: 100vh;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.selected-movie-block {
+    height: 100vh;
+    .info-block {
+      min-height: 450px;
+      margin-left: 20px;
+      text-align: start;
+      margin-left: 120px;
+      h3{
+        color: #858587;
+      }
+       > * {
+        color: white;
+        margin-bottom: 20px;
+      }
+     
+     p > span {
+        margin-right : 10px;
+        font-size: 20px;
+        
+      }
+    }
+    .button-block{
+        button{
+            margin-right: 10px;
+        }
+    }
+  }
+  
+ 
+ 

@@ -1,0 +1,27 @@
+.swiper-container{
+  margin-top: 50px;
+}
+.swiper {
+  width: 100%;
+}
+.swiper, .swiper-container h3{
+  margin-left: 170px;
+}
+
+.swiper-container h3{
+  text-align: start;
+  color: white;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 200;
+}
+.swiper-slide {
+  height: 300px;
+  line-height: 300px;
+  text-align: center;
+  cursor: pointer
+}
+.swiper-slide:hover {
+  transform: scale(1.1);
+}
+
